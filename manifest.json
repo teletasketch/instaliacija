@@ -1,0 +1,17 @@
+{
+  "short_name": "For You",
+  "name": "For You Video Stream",
+  "icons": [
+    {
+      "src": "https://res.cloudinary.com/dnb2aswj4/image/upload/v1778661652/copy_9BD46A4A-C3B0-4757-941A-509F8E23E27C_lqiny0.jpg",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": ".",
+  "background_color": "#000000",
+  "theme_color": "#000000",
+  "display": "fullscreen",
+  "orientation": "portrait"
+}
